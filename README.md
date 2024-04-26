@@ -4,9 +4,6 @@ This is a Telegram bot that uses [aria2](https://github.com/aria2/aria2) to down
 
 ## Support group
 Join https://t.me/aria2tg for any support related to this repo or just post in issues.
-## Limitations
-
-This bot is meant to be used in small, closed groups. So, once deployed, it only works in whitelisted groups.
 
 ## Heroku
 
